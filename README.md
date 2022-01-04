@@ -1,3 +1,17 @@
+- npx create-react-app --template=typescript appframermotion
+
+- npm install -D @types/styled-components
+
+- npm install styled-components framer-motion
+
+- npm install typescript
+
+- npm i --save-dev @types/react-dom
+
+- npm run dev
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
